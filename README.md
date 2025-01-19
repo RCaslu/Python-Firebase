@@ -1,4 +1,7 @@
 # Python-Firebase
+EN: During the make of a project, I had to migrate our customer database from MySQL to Cloud (Firebase), here in this repository are all my tests and how I managed to do it!
+BR: Durante a criação de um projeto, tive que realizar a migração do banco de dados já existente de um dos meus clientes saindo do MySQL (local) para Cloud (Firebase), aqui neste repositório estão todos os meus testes e como consegui realizar a migração com êxito!
+
 ## 🔵 EN :
 This project handles the complete data processing pipeline, starting with data extraction via SQL queries, followed by conversion to CSV files, then to JSON format. Finally, the data is uploaded to Firebase, ensuring efficient integration with the real-time database. The process can be summarized in three main steps:
 
